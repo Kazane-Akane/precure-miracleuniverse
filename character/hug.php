@@ -17,13 +17,13 @@
 <div class="header">
   <nav>
     <ul class="gnav">
-<li><a href="http://www.precure-miracleuniverse.com/">TOP</a></li>
-<li><a href="http://www.precure-miracleuniverse.com/character/">キャラクター</a></li>
-<li><a href="http://www.precure-miracleuniverse.com/story/">ストーリー</a></li>
-<li><a href="http://www.precure-miracleuniverse.com/movie/">ムービー</a></li>
-<li><a href="http://www.precure-miracleuniverse.com/csg/">スタッフ・キャスト・ゲスト</a></li>
-<li><a href="http://www.precure-miracleuniverse.com/game/">ゲーム</a></li>
-<li><a href="../toei-screeninginfo.azurewebsites.net/theaterlist/02643.htm">劇場一覧</a></li>
+<li><a href="index.html">TOP</a></li>
+<li><a href="character/character.html">キャラクター</a></li>
+<li><a href="story/story.html">ストーリー</a></li>
+<li><a href="movie/movie.html">ムービー</a></li>
+<li><a href="csg/csg.html">スタッフ・キャスト・ゲスト</a></li>
+<li><a href="game/game.html">ゲーム</a></li>
+<li><a href="toei-screeninginfo.azurewebsites.net/theaterlist/02643.htm">劇場一覧</a></li>
     </ul>
   </nav>
 <div class="container">
